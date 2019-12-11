@@ -1,0 +1,52 @@
+{
+"author_first_name": "Guillaume",
+"author_last_name" : "Musso",
+"nationality" : "french",
+"books": [
+{
+"title": "7 ans après",
+"Genre" : "Fiction , Thriller",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/7AnsApres.jpg"
+},
+{
+"title": "Central Park",
+"Genre" : "Mystery , Fiction",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/centralPark.jpg"
+},
+{
+"title": "Demain",
+"Genre" : "Fiction , Love novel",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/demain.jpg"
+},
+{
+"title": "la fille de papier",
+"Genre" : "Fiction",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/laFilleDePapier.jpg"
+},
+{
+"title": "la jeune fille et la nuit",
+"Genre" : "Fiction",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/jeuneFille.jpg"
+},
+{
+"title": "Seras-tu là ?",
+"Genre" : "Fiction , Love novel",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/seras-tuLa.jpg"
+},
+{
+"title": "Sauve-moi",
+"Genre" : "Fiction , Thriller",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/sauve-moi.jpg"
+},
+{
+"title": "Et après...",
+"Genre" : "Fiction",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/etApres.jpg"
+},
+{
+"title": "Parce que je t'aime",
+"Genre" : "Fiction , Love novel",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/parceQueJeTaime.jpg"
+}
+]
+}
